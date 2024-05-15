@@ -1,0 +1,7 @@
+C:\Users\Fahad\Desktop\project_1278831\project_1278831\bin\Debug\project_1278831.exe.config
+C:\Users\Fahad\Desktop\project_1278831\project_1278831\bin\Debug\project_1278831.exe
+C:\Users\Fahad\Desktop\project_1278831\project_1278831\bin\Debug\project_1278831.pdb
+C:\Users\Fahad\Desktop\project_1278831\project_1278831\obj\Debug\project_1278831.csproj.AssemblyReference.cache
+C:\Users\Fahad\Desktop\project_1278831\project_1278831\obj\Debug\project_1278831.csproj.CoreCompileInputs.cache
+C:\Users\Fahad\Desktop\project_1278831\project_1278831\obj\Debug\project_1278831.exe
+C:\Users\Fahad\Desktop\project_1278831\project_1278831\obj\Debug\project_1278831.pdb
